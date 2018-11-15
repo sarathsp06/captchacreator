@@ -1,3 +1,2 @@
 # captchacreator
-Php script to create captcha
-  A standalone script that can be used to create captcha images 
+Php script to create captcha : A standalone script that can be used to create captcha images with numbers and englishb alphabets
